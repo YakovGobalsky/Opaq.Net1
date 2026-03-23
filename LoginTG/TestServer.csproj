@@ -12,7 +12,7 @@
     <ProjectReference Include="..\Games\Games\Games.csproj" />
     <ProjectReference Include="..\Games\Lobby\Lobby.csproj" />
     <ProjectReference Include="..\Games\Poker\Poker.csproj" />
-    <ProjectReference Include="..\Logs\Utility.csproj" />
+    <ProjectReference Include="..\Utils\Utility.csproj" />
     <ProjectReference Include="..\Network\Opaq.Network.csproj" />
     <ProjectReference Include="..\Servers\Server.Games\Server.Games.csproj" />
     <ProjectReference Include="..\Servers\Server.Login\Server.Login.csproj" />

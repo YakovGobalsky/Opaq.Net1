@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestServer", "LoginTG\TestS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opaq.Network", "Network\Opaq.Network.csproj", "{5995BDA4-EECA-4BC5-A613-B441B0F51A8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Logs\Utility.csproj", "{361DCEFE-ACE9-4F29-8B11-6D8EAC1354F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utility.csproj", "{361DCEFE-ACE9-4F29-8B11-6D8EAC1354F5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{04252BA6-B404-FD3B-81B5-D989EEE58EED}"
 EndProject
