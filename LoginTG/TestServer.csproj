@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>cfd9fe9c-7788-4fa8-8dd9-f8aa67e472b1</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Games\Games\Games.csproj" />
+    <ProjectReference Include="..\Games\Lobby\Lobby.csproj" />
+    <ProjectReference Include="..\Games\Poker\Poker.csproj" />
+    <ProjectReference Include="..\Logs\Utility.csproj" />
+    <ProjectReference Include="..\Network\Opaq.Network.csproj" />
+    <ProjectReference Include="..\Servers\Server.Games\Server.Games.csproj" />
+    <ProjectReference Include="..\Servers\Server.Login\Server.Login.csproj" />
+  </ItemGroup>
+
+</Project>
